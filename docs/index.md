@@ -8,7 +8,7 @@ title: Home
 
 Welcome!
 
-I am an applied AI research scientist with expertise in measurement and evaluaition science. I come from a background in psychometrics and social/personality psychology. I am currently working on measurement in AI, where I examine human-centered applications of LLMs. For a deeper look at my areas of focus (past and present), please visit the Research page and my LinkedIn (which is updated more frequently than this website).
+I am a research scientist, currently working on measurement and evaluation of human-centered AI. For a deeper look at my past research in the areas of psychometrics, psychology, and research methods, please visit the [Research](pooyarazavi.com/research) page or my LinkedIn.
 
 <p align="center">
   <img src="images/home_hero.png" alt="Abstract background" width="80%">
