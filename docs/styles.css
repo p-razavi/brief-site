@@ -1,0 +1,9 @@
+/* Reduce header height a touch */
+.md-header { padding-top: .25rem; padding-bottom: .25rem; }
+
+/* Subtle link underline on hover only */
+.md-content a { text-decoration: none; }
+.md-content a:hover { text-decoration: underline; }
+
+/* Optional: hide Edit/Last updated meta lines site-wide */
+/* .md-source__fact, .md-content__button { display: none !important; } */

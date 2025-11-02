@@ -1,0 +1,50 @@
+site_name: Pooya Razavi
+site_url: https://pooyarazavi.com  # optional
+site_description: Personal site of Pooya Razavi — research, publications, and notes.
+
+theme:
+  name: material
+  language: en
+  font:
+    text: system-ui   # minimal, fast-loading system fonts
+    code: ui-monospace
+  features:
+    - navigation.instant
+    - navigation.top        # simple top nav (remove if you prefer the left sidebar only)
+    - content.code.copy
+    - content.tabs.link
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Research: research.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/p-razavi
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/pooyarazavi
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
