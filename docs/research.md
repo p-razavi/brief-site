@@ -18,6 +18,10 @@
     - **Comprehensive personality structure in the Persian language: High-dimensionality analyses of trait adjectives.**  
       N. Aghababaei, G. Saucier, V. Vader, & **P. Razavi** (2025). *Journal of Personality and Social Psychology.*
 
+    - **Anger: Justified and Unjustified**  
+      **P. Razavi**, S. D. Hodges, D. M. Condon, D. T. Wagner, & S. Srivastava (2025). *PsyArXiv.*  
+      [![Preprint](https://img.shields.io/badge/Preprint-OSF-blue)](https://osf.io/preprints/psyarxiv/dxvbw_v1) [![Data](https://img.shields.io/badge/Data-OSF-lightgrey)](https://bit.ly/3VXWgC7)
+
     - **Awe is associated with creative personality, convergent creativity, and everyday creativity.**  
       J. W. Zhang, R. T. Howell, **P. Razavi**, H. Shaban-Azad, W. J. Chai, T. Ramis, et al. (2024). *Psychology of Aesthetics, Creativity, and the Arts.*
 
