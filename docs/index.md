@@ -8,7 +8,7 @@ title: Home
 
 Welcome!
 
-I am a research scientist, currently working on measurement and evaluation of human-centered AI. For a deeper look at my past research in the areas of psychometrics, psychology, and research methods, please visit the [Research](pooyarazavi.com/research) page or my LinkedIn.
+I am a research scientist, currently working on measurement and evaluation of human-centered AI. For a deeper look at my past research in the areas of psychometrics, psychology, and research methods, please visit the [Research](research) page or my LinkedIn.
 
 <p align="center">
   <img src="images/home_hero.png" alt="Abstract background" width="80%">
