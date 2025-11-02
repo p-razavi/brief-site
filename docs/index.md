@@ -7,9 +7,8 @@ title: Home
 
 Welcome!
 
-I am a research data scientist. My expertise lies at the intersection of measurement, applied LLMs, and behavioral science. I currently leverage these skills to examine human-centered applications of LLMs. For a deeper look at my areas of focus (past and present), please visit the Research page.
+I am an applied AI research scientist with expertise in measurement and evaluaition science. I come from a background in psychometrics and social/personality psychology. I am currently working on measurement in AI, where I examine human-centered applications of LLMs. For a deeper look at my areas of focus (past and present), please visit the Research page and my LinkedIn (which is updated more frequently than this website).
 
-My LinkedIn profile is updated more frequently than this website.
 
 
 
