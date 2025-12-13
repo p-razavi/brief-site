@@ -5,12 +5,14 @@ title: Home
 
 # Pooya Razavi
 
+
 Welcome!
 
-I am a research data scientist. My expertise lies at the intersection of measurement, applied LLMs, and behavioral science. I currently leverage these skills to examine human-centered applications of LLMs. For a deeper look at my areas of focus (past and present), please visit the Research page.
+I am a research scientist, currently working on measurement and evaluation of human-centered AI. For a deeper look at my past research in the areas of psychometrics, psychology, and research methods, please visit the [Research](research) page or my LinkedIn.
 
-My LinkedIn profile is updated more frequently than this website.
-
+<p align="center">
+  <img src="images/home_hero.png" alt="Abstract background" width="80%">
+</p>
 
 
 
