@@ -73,9 +73,9 @@
     - **Bridging bilingual gaps: An in-depth exploration of ChatGPT's transadaptation capabilities.** — X. Xiao, **P. Razavi**, & S. Powers. *NCME 2024*, Philadelphia, PA.
 
 ??? details "Psychometrics, Psychology, and Methodology"
-    - **An Introduction to Mixed-Methods Research** - **P. Razavi** - American Psychological Association's Science Training Series, 2025, [![Video](https://img.shields.io/badge/Video-Vimeo-0072B2?logo=vimeo)](https://vimeo.com/1082338871)
-
     - **Exploring Methods to Make Through-Year Assessment Results Instructionally Relevant** — **P. Razavi**, S. Powers. *NCME 2025*, Denver.
+
+    - **An Introduction to Mixed-Methods Research** - **P. Razavi** - American Psychological Association's Science Training Series, 2025, [![Video](https://img.shields.io/badge/Video-Vimeo-0072B2?logo=vimeo)](https://vimeo.com/1082338871)
     
     - **Evaluating examinee engagement through modeling the relation between response time and item word count.** — **P. Razavi**, & S. Powers. *AERA 2024*, Philadelphia, PA.
 
@@ -139,8 +139,8 @@
 
     | Year | Award / Grant / Honor | Organization |
     |------|-----------------------|---------------|
-    | 2025 | First Place Award in the Predicting the Replicability of Science (Round 1) | Center for Open Science (COS) |
-    | 2023 | Rising Star | Psychometrics Team @ Edmentum |
+    | 2025 | Predicting Replicability Challenge (AIML Competition, Round 1) - First Place | Center for Open Science |
+    | 2023 | Rising Star Award (Psychometrics Team) | Edmentum |
     | 2021 | General University Scholarship | University of Oregon |
     | 2021 | Norman D. Sundberg Fellowship | University of Oregon |
     | 2021 | Marthe Smith Memorial Science Scholarship | University of Oregon |
