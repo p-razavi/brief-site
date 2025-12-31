@@ -11,7 +11,7 @@ Welcome!
 I am a research scientist, currently working on measurement and evaluation of human-centered AI. For a deeper look at my past research in the areas of psychometrics, psychology, and research methods, please visit the [Research](research) page.
 
 <p align="center">
-  <img src="images/home_heroknowledge_abs.png" alt="Abstract background" width="80%">
+  <img src="images/knowledge_abs.png" alt="Abstract background" width="80%">
 </p>
 
 
