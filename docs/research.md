@@ -13,6 +13,7 @@
 
     - **Exploring the potential of large language models to understand interpersonal emotion regulation strategies from narratives.**  
       B. López-Pérez, Y. Chen, X. Li, S. Cheng, & **P. Razavi** (2025). *Emotion.*
+       [![ResearchGate](https://img.shields.io/badge/ResearchGate-Article-00CCBB)](https://www.researchgate.net/publication/390893474_Exploring_the_potential_of_large_language_models_to_understand_interpersonal_emotion_regulation_strategies_from_narratives)
 
 ??? details "Psychometrics, Psychology, and Methodology"
     - **Comprehensive personality structure in the Persian language: High-dimensionality analyses of trait adjectives.**  
@@ -139,6 +140,7 @@
 
     | Year | Award / Grant / Honor | Organization |
     |------|-----------------------|---------------|
+    | 2026 | Predicting Replicability Challenge (AIML Competition, Round 2) - First Place | Center for Open Science |
     | 2025 | Predicting Replicability Challenge (AIML Competition, Round 1) - First Place | Center for Open Science |
     | 2023 | Rising Star Award (Psychometrics Team) | Edmentum |
     | 2021 | General University Scholarship | University of Oregon |
