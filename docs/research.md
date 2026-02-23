@@ -18,7 +18,7 @@
 ??? details "Psychometrics, Psychology, and Methodology"
     - **Anger: Justified and Unjustified**  
       **P. Razavi**, S. D. Hodges, D. M. Condon, D. T. Wagner, & S. Srivastava (2026). *Collabra: Psychology.*  
-      [![Preprint](https://img.shields.io/badge/Preprint-OSF-blue)](https://osf.io/preprints/psyarxiv/dxvbw_v1) [![Data](https://img.shields.io/badge/Data-OSF-lightgrey)](https://bit.ly/3VXWgC7)
+      [![Preprint](https://img.shields.io/badge/Preprint-OSF-blue)](https://osf.io/preprints/psyarxiv/dxvbw_v2) [![Data](https://img.shields.io/badge/Data-OSF-lightgrey)](https://osf.io/e2wmj)
 
     - **Comprehensive personality structure in the Persian language: High-dimensionality analyses of trait adjectives.**  
       N. Aghababaei, G. Saucier, V. Vader, & **P. Razavi** (2025). *Journal of Personality and Social Psychology.*
