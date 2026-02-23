@@ -16,12 +16,12 @@
       [![ResearchGate](https://img.shields.io/badge/ResearchGate-Article-00CCBB)](https://www.researchgate.net/publication/390893474_Exploring_the_potential_of_large_language_models_to_understand_interpersonal_emotion_regulation_strategies_from_narratives)
 
 ??? details "Psychometrics, Psychology, and Methodology"
+    - **Anger: Justified and Unjustified**  
+      **P. Razavi**, S. D. Hodges, D. M. Condon, D. T. Wagner, & S. Srivastava (2026). *Collabra: Psychology.*  
+      [![Preprint](https://img.shields.io/badge/Preprint-OSF-blue)](https://osf.io/preprints/psyarxiv/dxvbw_v1) [![Data](https://img.shields.io/badge/Data-OSF-lightgrey)](https://bit.ly/3VXWgC7)
+
     - **Comprehensive personality structure in the Persian language: High-dimensionality analyses of trait adjectives.**  
       N. Aghababaei, G. Saucier, V. Vader, & **P. Razavi** (2025). *Journal of Personality and Social Psychology.*
-
-    - **Anger: Justified and Unjustified**  
-      **P. Razavi**, S. D. Hodges, D. M. Condon, D. T. Wagner, & S. Srivastava (2025). *PsyArXiv.*  
-      [![Preprint](https://img.shields.io/badge/Preprint-OSF-blue)](https://osf.io/preprints/psyarxiv/dxvbw_v1) [![Data](https://img.shields.io/badge/Data-OSF-lightgrey)](https://bit.ly/3VXWgC7)
 
     - **Awe is associated with creative personality, convergent creativity, and everyday creativity.**  
       J. W. Zhang, R. T. Howell, **P. Razavi**, H. Shaban-Azad, W. J. Chai, T. Ramis, et al. (2024). *Psychology of Aesthetics, Creativity, and the Arts.*
@@ -67,9 +67,11 @@
 ## Presentations
 
 ??? info "Applied LLM"
-    - **Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms** — **P. Razavi**, S. Powers. *NCME 2025*, Denver.
+    - **Using Generative AI for Item Development and Item Difficulty Prediction** — **P. Razavi**, S. Powers. *AIME-Con 2025*, Pittsburgh, PA.
+
+    - **Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms** — **P. Razavi**, S. Powers. *NCME 2025*, Denver, CO.
     
-    - **ChatGPT is an Effective Tool for Evaluating Educational Content Alignment** — F. Karimi-Malekabadi, **P. Razavi**, S. Powers. *NCME 2025*, Denver.
+    - **ChatGPT is an Effective Tool for Evaluating Educational Content Alignment** — F. Karimi-Malekabadi, **P. Razavi**, S. Powers. *NCME 2025*, Denver, CO.
 
     - **Bridging bilingual gaps: An in-depth exploration of ChatGPT's transadaptation capabilities.** — X. Xiao, **P. Razavi**, & S. Powers. *NCME 2024*, Philadelphia, PA.
 
