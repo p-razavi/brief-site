@@ -3,13 +3,13 @@
 ## Publications and Preprints
 
 ??? info "Applied LLM"
-    - **Scaling Item-to-Standard Alignment with Large Language Models: Accuracy, Limits, and Solutions**  
-      F. Karimi-Malekabadi, **P. Razavi**, & S. Powers (2025). *OSF Preprint.*  
-      [![PDF](https://img.shields.io/badge/PDF-Link-blue)](https://osf.io/cyqs7_v1/download/?format=pdf)
-
     - **Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms**  
       **P. Razavi** & S. J. Powers (2025). *arXiv Preprint* arXiv:2504.08804.  
       [![arXiv](https://img.shields.io/badge/arXiv-2504.08804-b31b1b)](https://arxiv.org/abs/2504.08804)
+
+    - **Scaling Item-to-Standard Alignment with Large Language Models: Accuracy, Limits, and Solutions**  
+      F. Karimi-Malekabadi, **P. Razavi**, & S. Powers (2025). *arXiv Preprint* arXiv:2511.19749.  
+      [![arXiv](https://img.shields.io/badge/arXiv-2504.08804-b31b1b)](https://arxiv.org/abs/2511.19749)
 
     - **Exploring the potential of large language models to understand interpersonal emotion regulation strategies from narratives.**  
       B. López-Pérez, Y. Chen, X. Li, S. Cheng, & **P. Razavi** (2025). *Emotion.*
@@ -18,7 +18,7 @@
 ??? details "Psychometrics, Psychology, and Methodology"
     - **Anger: Justified and Unjustified**  
       **P. Razavi**, S. D. Hodges, D. M. Condon, D. T. Wagner, & S. Srivastava (2026). *Collabra: Psychology.*  
-      [![Preprint](https://img.shields.io/badge/Preprint-OSF-blue)](https://osf.io/preprints/psyarxiv/dxvbw_v2) [![Data](https://img.shields.io/badge/Data-OSF-lightgrey)](https://osf.io/e2wmj)
+      [![Open Access](https://img.shields.io/badge/Open--Access-Collabra-blue)](https://online.ucpress.edu/collabra/article/12/1/158607/217739/Anger-Justified-and-Unjustified) [![Data](https://img.shields.io/badge/Data-OSF-lightgrey)](https://osf.io/e2wmj)
 
     - **Comprehensive personality structure in the Persian language: High-dimensionality analyses of trait adjectives.**  
       N. Aghababaei, G. Saucier, V. Vader, & **P. Razavi** (2025). *Journal of Personality and Social Psychology.*
