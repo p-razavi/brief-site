@@ -4,8 +4,8 @@
 
 ??? info "Applied LLM"
     - **Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms**  
-      **P. Razavi** & S. J. Powers (2025). *arXiv Preprint* arXiv:2504.08804.  
-      [![arXiv](https://img.shields.io/badge/arXiv-2504.08804-b31b1b)](https://arxiv.org/abs/2504.08804)
+      **P. Razavi** & S. J. Powers (2025). International Journal of Artificial Intellidence in Education.        
+      [![Open Access](https://img.shields.io/badge/Open--Access-IJAIED-blue)](https://www.sciencedirect.com/science/article/pii/S156042922601317X) [![arXiv](https://img.shields.io/badge/arXiv-2504.08804-b31b1b)](https://arxiv.org/abs/2504.08804)
 
     - **Scaling Item-to-Standard Alignment with Large Language Models: Accuracy, Limits, and Solutions**  
       F. Karimi-Malekabadi, **P. Razavi**, & S. Powers (2025). *arXiv Preprint* arXiv:2511.19749.  
